@@ -1,0 +1,3 @@
+C:/Users/anto2/Desktop/ClionProjects/POO_luisa/cmake-build-debug/CMakeFiles/POO_luisa.dir
+C:/Users/anto2/Desktop/ClionProjects/POO_luisa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anto2/Desktop/ClionProjects/POO_luisa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
